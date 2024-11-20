@@ -1,0 +1,14 @@
+C:\Users\LAB PC-12\Desktop\project\sampel2\bin\Debug\net8.0\sampel2.exe
+C:\Users\LAB PC-12\Desktop\project\sampel2\bin\Debug\net8.0\sampel2.deps.json
+C:\Users\LAB PC-12\Desktop\project\sampel2\bin\Debug\net8.0\sampel2.runtimeconfig.json
+C:\Users\LAB PC-12\Desktop\project\sampel2\bin\Debug\net8.0\sampel2.dll
+C:\Users\LAB PC-12\Desktop\project\sampel2\bin\Debug\net8.0\sampel2.pdb
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\sampel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\sampel2.AssemblyInfoInputs.cache
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\sampel2.AssemblyInfo.cs
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\sampel2.csproj.CoreCompileInputs.cache
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\sampel2.dll
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\refint\sampel2.dll
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\sampel2.pdb
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\sampel2.genruntimeconfig.cache
+C:\Users\LAB PC-12\Desktop\project\sampel2\obj\Debug\net8.0\ref\sampel2.dll
